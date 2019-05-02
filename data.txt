@@ -1,0 +1,3 @@
+Nome: Eurico
+Idade: 31 anos
+Curso: programação
